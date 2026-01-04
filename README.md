@@ -25,24 +25,6 @@ Node.js / Django
 Database:
 MySQL / MongoDB / SQLite
 
-📂 Project Structure
-smart-personal-library-system/
-│
-├── frontend/
-│   ├── login.html
-│   ├── signup.html
-│   ├── personal-shelf.html
-│   ├── bookshelf.html
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── script.js
-│
-├── assets/
-│   └── images/
-│
-├── README.md
-└── .gitignore
 
 🚀 Getting Started
 Prerequisites
