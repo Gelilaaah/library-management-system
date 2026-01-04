@@ -1,21 +1,17 @@
 
-📚 Smart Personal Library System
+📚 Library Managment System
 📌 Project Overview
 
 The Smart Personal Library System is a web-based application designed to help users organize, manage, and track their personal book collections efficiently. 
-It allows users to create a personal digital library where they can add books, view their collection, and manage reading information in an easy and user-friendly way.
-
 This project is developed as part of the ALX Capstone Project, focusing on applying software engineering principles, clean design, and real-world problem solving.
 
 🎯 Features
-
-- User authentication (Login & Sign Up)
 - Personal bookshelf management
 - Add, view, and organize books
 - Clean and intuitive user interface
 - Responsive design for different screen sizes
 - Structured and scalable project architecture
-
+- Inventory Tracking: Monitor which books are in stock, checked out, or reserved.
 🛠️ Tech Stack
 
 Frontend:
@@ -59,7 +55,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Gelilaaah/smart-personal-library-system.git
+git clone https://github.com/Gelilaaah/library-management-system.git
 
 
 Navigate to the project directory:
